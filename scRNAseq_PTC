@@ -1,7 +1,0 @@
-The code for analyzing the single cell sequencing data (10X Genomics) of papillary thyroid cancer.
-
-Data pre-processing and integration.
-The procedures to load the MNN corrected dataset into the Seurat object.
-The identification of each distinct cell type.
-The algorithms implemented (KNN + Spearman's correlation) to discriminate between the tumor and normal thyroid epithelial cells;
-The code used to perform the trajectory analysis of the thyroid epithelial cells using Monocle2.
